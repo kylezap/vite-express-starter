@@ -27,8 +27,8 @@ npm run dev
 ```
 
 This will start:
-- Frontend dev server on `http://localhost:3000`
-- Backend API server on `http://localhost:5000`
+- Frontend dev server on `http://localhost:3001`
+- Backend API server on `http://localhost:3000`
 
 The frontend is configured to proxy API requests to the backend, so you can make requests to `/api/*` from your React components.
 
